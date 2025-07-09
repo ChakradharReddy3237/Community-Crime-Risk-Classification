@@ -1,7 +1,6 @@
 # Community Crime Risk Classification with Objective-Driven Optimization
 
 ![Language](https://img.shields.io/badge/Language-Python-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 This repository contains the code, dataset, and final research paper for a machine learning project focused on predicting community crime risk levels. The project implements a dual-model framework to separately classify violent and non-violent crime, optimizing for a real-world public safety objective rather than generic accuracy.
 
